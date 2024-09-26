@@ -1,0 +1,121 @@
+{
+    "meta": {
+        "theme": "kendall"
+    },
+    "basics": {
+        "name": "Andy Chrystal",
+        "label": "Service Industury Expert",
+        "email": "andychrystal93@gmail.com",
+        "photo": "https://github.com/andychrystal.png",
+        "phone": "732-996-9608",
+        "url": "https://resume.andychrystal.com/",
+        "summary": "Service Industury Expert",
+        "location": {
+            "address": "1604 Glendola Rd",
+            "postalCode": "NJ 07719",
+            "city": "Wall Township",
+            "countryCode": "US",
+            "region": "New Jersey"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "andychrystal",
+                "url": "https://github.com/andychrystal"
+            },
+            {
+                "network": "Instagram",
+                "username": "andychrystal",
+                "url": "https://www.instagram.com/andychrystal/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Neher Data Systems",
+            "position": "Consultant",
+            "url": "https://www.neherdata.com",
+            "startDate": "2021-01-14",
+            "summary": "Providers of bespoke and customized technology solutions for B2C, B2B, and B2G clients and customers. Multi-jurisdiction and SAM Federally verified contractor of data science, cybersecurity, database engineering, and software development consulting services and solutions. Enterprise integrators and MSPs for multiple leading SaaS, PaaS, and IDaaS offerings."
+        },
+        {
+            "name": "AT&T, Inc.",
+            "position": "Senior Cybersecurity",
+            "url": "https://www.att.com",
+            "startDate": "2021-06-14",
+            "endDate": "2022-11-01",
+            "summary": "Responsible for cyber security areas across products, services, infrastructure, networks, and/or applications while providing protection for AT&T, its customers and its vendors/partners. Works with senior team members on various projects relating to the protection of devices, customers, assets, data, information technology, and networks. Supports innovation, strategic planning, technical proof of concepts, testing, lab work, and various other technical program management related tasks associated with the cyber security programs."
+        },
+        {
+            "name": "Memorial Sloan Kettering Cancer Center",
+            "position": "Correlative Science Associate",
+            "url": "https://www.mskcc.org",
+            "startDate": "2019-09-01",
+            "endDate": "2020-03-01",
+            "summary": "Managed twenty-five unique, complex correlative registries, non-therapeutic trials, and correlative studies included in the Prostate Cancer Clinical Trials Consortium (PCCTC)  research portfolio. Developed and implemented improved data management systems and external reporting tools using Excel, VBA, Python 3, SQL, and PowerBI."
+        },
+        {
+            "name": "Hackensack Meridian Health",
+            "position": "Biorepository Technologist",
+            "url": "https://www.hmh.org",
+            "startDate": "2017-06-04",
+            "endDate": "2019-04-08",
+            "summary": "Managed the acquisition, processing, and handling of over three-thousand surgically resected solid tumor samples destined for storage in the HMH Biorepository. Implemented and administered the BioFortis Labmatrix research database system across our six campus sites. Was the study lead and federal project manager’s point person onsite for our NIH/NCI Clinical Proteomic Tumor Analysis Consortium (CPTAC) Phase III solid tumor collections contract."
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "Brookdale Community College",
+            "url": "https://brookdalecc.edu/",
+            "area": "General Studies",
+            "studyType": "Associates of Science",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01"
+        },
+        {
+            "institution": "Wall Township High School",
+            "studyType": "High School",
+            "area": "High School",
+            "startDate": "2008-09-01",
+            "endDate": "2012-06-01"
+        }
+    ],
+    "certificates": [
+        {
+            "name": "ServSafe",
+            "date": "2008-01-01",
+            "issuer": "ServSafe"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Data Science Platforms and Tools",
+            "level": "Master",
+            "keywords": ["Python3", "Anaconda", "Julia", "Pandas", "Numpy", "Pyenv", "Conda", "Jupyter", "Plotly", "Relational Database Systems", "SQL", "Postgres", "noSQL", "MongoDB", "AWS RDS", "SQLAlchemy", "Databricks"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [],
+    "references": [
+        {
+            "name": "Provided Upon Request",
+            "reference": "Please email for details."
+        }
+    ],
+    "projects": [
+        {
+            "name": "Digital Wallet Contact Card",
+            "description": "A digital business and contact card deployed as a shareable Generic Pass in Apple Wallet. More at https://card.tylermneher.life/",
+            "startDate": "2022-01-01",
+            "endDate": "2024-05-04",
+            "url": "https://card.tylermneher.life/",
+            "type": "Application"
+        }
+    ]
+}
